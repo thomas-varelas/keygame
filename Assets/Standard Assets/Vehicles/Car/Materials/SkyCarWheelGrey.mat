@@ -93,7 +93,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap:
+<<<<<<< Updated upstream
         m_Texture: {fileID: 2800000, guid: d12a6c97c4ec24d47b4ecee94aaab2ef, type: 3}
+=======
+        m_Texture: {fileID: 2800000, guid: 6b7e0132899f9564d99b829d91f9c239, type: 3}
+>>>>>>> Stashed changes
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMap:
@@ -303,7 +307,11 @@ Material:
     - _UVDetailsMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMaskEmissive: {r: 1, g: 0, b: 0, a: 0}
+<<<<<<< Updated upstream
 --- !u!114 &1734168308733720938
+=======
+--- !u!114 &4382884847739135407
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

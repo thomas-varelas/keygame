@@ -1,6 +1,10 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+<<<<<<< Updated upstream
 --- !u!114 &-4137459198948975127
+=======
+--- !u!114 &-1325624875751741599
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -110,7 +114,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap:
+<<<<<<< Updated upstream
         m_Texture: {fileID: 2800000, guid: b0e245761cf55bc41b87e3a8c0a60fb3, type: 3}
+=======
+        m_Texture: {fileID: 2800000, guid: 7bf8a851b93f76d4abaa4e1de11061f9, type: 3}
+>>>>>>> Stashed changes
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMap:

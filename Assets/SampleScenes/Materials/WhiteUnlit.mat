@@ -148,7 +148,11 @@ Material:
     - _SpecColor: {r: 0.11764706, g: 0.11764706, b: 0.11764706, a: 1}
     - _SpecularColor: {r: 0.15686275, g: 0.15686275, b: 0.15686275, a: 1}
     - _UnlitColor: {r: 1, g: 1, b: 1, a: 1}
+<<<<<<< Updated upstream
 --- !u!114 &3456694066548372443
+=======
+--- !u!114 &3310548483664851147
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
