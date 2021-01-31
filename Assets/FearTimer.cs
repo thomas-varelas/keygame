@@ -27,8 +27,16 @@ public class FearTimer : MonoBehaviour
         } else {
         timesUpText.SetActive(true);
         Time.timeScale=0;
+        //CoroutineAction();
+        Application.Quit();
         }
     }
-        
-    
+    /*
+    public IEnumerator CoroutineAction()
+    {
+    // do some actions here  
+    yield return StartCoroutine(WaitForSeconds(5)); // wait for 5 frames
+    // do some actions after 5 frames
+    }
+    */
 }
